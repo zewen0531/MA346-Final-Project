@@ -1,0 +1,31 @@
+Rank,University,Country,Overall_Score,International_Student_Ratio,International_Faculty_Ratio,Faculty_Student_Ratio,Citations_per_Faculty,Academic_Reputation,Employer_Reputation
+1,Massachusetts Institute of Technology (MIT),United States,100,91.4,100,100,100,100,100
+2,University of Oxford,United Kingdom,99.5,98.5,99.5,100,96,100,100
+3,Stanford University,United States,98.7,67,99.8,100,99.9,100,100
+3,University of Cambridge,United Kingdom,98.7,97.7,100,100,92.1,100,100
+5,Harvard University,United States,98,70.1,84.2,99.1,100,100,100
+6,California Institute of Technology (Caltech),United States,97.4,87.7,99.4,100,100,96.7,89.9
+7,Imperial College London,United Kingdom,97.3,100,100,99.8,88.1,98.4,99.8
+8,ETH Zurich (Swiss Federal Institute of Technology),Switzerland,95.4,98.2,100,80.4,99.8,98.7,95.3
+8,UCL (University College London),United Kingdom,95.4,100,99.5,99,78,99.4,98.9
+10,University of Chicago,United States,94.5,84.9,71.9,95.5,90.6,99.2,93.5
+11,National University of Singapore (NUS),Singapore,93.9,70.3,100,86.8,90.6,99.6,97.1
+12,"Nanyang Technological University, Singapore (NTU)",Singapore,90.8,69.6,100,89.5,95.5,91.1,85
+13,University of Pennsylvania,United States,90.7,58.1,94.1,100,74,96.2,93.8
+14,Ecole Polytechnique F¨¦d¨¦rale de Lausanne (EPFL),Switzerland,90.2,100,100,94.8,99.8,82.4,79.7
+14,Yale University,United States,90.2,69.8,87.9,100,59.9,99.9,100
+16,University of Edinburgh,United Kingdom,89.9,99.6,99.3,83.5,69.5,98,97.3
+17,Tsinghua University,Mainland China,89,26.3,15.3,90.6,96,98.6,97.6
+18,Peking University,Mainland China,88.8,38.5,45.6,83.5,89.5,99.4,98.2
+19,Columbia University,United States,88.7,98.4,52.7,100,55.6,99.6,98.4
+20,Princeton University,United States,88.6,63.2,28.1,68.7,100,99.9,99.2
+21,Cornell University,United States,88.3,66.1,75.6,61.3,98.9,98.4,93.9
+22,University of Hong Kong (UKU),Hong Kong SAR,86.3,98.9,100,85.4,62.1,97.9,73.1
+23,University of Tokyo,Japan,86.2,28.5,3.3,92.4,79,100,99.6
+23,University of Michigan-Ann Arbor,United States,86.2,34.9,63.4,90.2,70.5,98.6,93
+25,Johns Hopkins University,United States,85.9,91.7,55.1,100,89.9,87.6,51.6
+26,University of Toronto,Canada,85.3,94.9,98.6,69.4,58.8,99.5,98.2
+27,McGill University,United States,84,96.6,92.2,73.3,65.5,92.5,94.4
+27,Australian National University,Australia,84,98.8,100,44.4,95.4,94.6,79.3
+27,University of Manchester,United Kingdom,84,99.3,94,72.5,58.1,95.2,98
+30,Northwestern University,United States,82.8,49.6,30,99.3,87.1,84.4,74.7
